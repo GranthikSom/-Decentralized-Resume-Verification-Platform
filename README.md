@@ -1,4 +1,5 @@
 # Decentralized Resume Verification Platform  
+![Uploading Screenshot 2025-03-17 at 3.36.13 PM.png…]()
 
 ## Project Description  
 A blockchain-based platform for verifying resumes and work history on-chain, eliminating fraud and ensuring authenticity.
