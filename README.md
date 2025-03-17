@@ -7,7 +7,7 @@ A blockchain-based platform for verifying resumes and work history on-chain, eli
 To create a transparent, trustless system where employers and job seekers can interact with verified work credentials.
 
 ## Contract Address  
-**Blockchain:** [Ethereum / Polygon / Other]  
+**Blockchain:** [Core]
 **Contract Address:** `0xb458bf9cbb12a7357c1e67bd42673de273c1a1b4`  
 
 ## Future Scope  
