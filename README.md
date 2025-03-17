@@ -1,5 +1,4 @@
 # Decentralized Resume Verification Platform  
-<img width="1440" alt="Screenshot 2025-03-17 at 3 36 13 PM" src="https://github.com/user-attachments/assets/a265f365-1fe0-4d13-818b-2bae46899ec6" />
 
 
 ## Project Description  
@@ -35,6 +34,7 @@ To create a transparent, trustless system where employers and job seekers can in
 ## Contract Address  
 **Blockchain:** [Core]
 **Contract Address:** `0xb458bf9cbb12a7357c1e67bd42673de273c1a1b4`  
+<img width="1440" alt="Screenshot 2025-03-17 at 3 36 13 PM" src="https://github.com/user-attachments/assets/a265f365-1fe0-4d13-818b-2bae46899ec6" />
 
 
 
